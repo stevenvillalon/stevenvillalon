@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @stevenvillalon
-- 👀 I’m interested in Marketing Analytics.
-- 🌱 I’m currently learning Data Science at Notre Dame.
+- 👀 I’m interested in Marketing & Data Science
+- ☘️ I’m currently doing a Masters of Data Science at Notre Dame (class of 2026)
+  - 🐝 Georgia Tech MBA
+  - 📚 Duke Undergrad
+- 📞 AT&T employee for 9 years
+- 🏀 Basketball nerd
 - ⚡ Fun fact: Avocados are fruits, not vegetables.
 
 <!---
