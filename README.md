@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stevenvillalon
-- 👀 I’m interested in Marketing & Data Science
+- 👀 I’m interested in Marketing and Data Science
 - ☘️ I’m currently doing a Masters of Data Science at Notre Dame (class of 2026)
   - 🐝 Georgia Tech MBA
   - 📚 Duke Undergrad
